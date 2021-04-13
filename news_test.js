@@ -5,4 +5,5 @@ Scenario('test something', ({ I }) => {
     I.see('まん延防止');
     I.see('コロナ');
     I.see('テレワーク');
+    I.see('東京');
 });
